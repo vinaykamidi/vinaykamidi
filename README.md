@@ -1,6 +1,5 @@
 ### Hi I'm Vinay R. Kamidi (Vinay) 👋
-I am PhD candidate in the Hybrid Dynamic Systems and Robot Locomotion Lab (HDSRL), located in Virginia Tech.
-- 🔭 I’m currently working on distributed control algorthims for legged robots (bipeds and quadrupeds alike)
+I have recently finished my Ph.D. in ME from Virginia Tech (March 2022). My research focused on systematically developing distributed control algorithms for legged robots. 
 
 I am best reached via [LinkedIn](https://www.linkedin.com/in/vkamidi/) and I love to meet new people from various professional domains! So, please feel free to reach me if you have any interesting topics to be discussed or projects to collaborate on.
 <!--
