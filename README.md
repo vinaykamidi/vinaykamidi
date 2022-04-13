@@ -1,5 +1,5 @@
 ### Hi I'm Vinay R. Kamidi (Vinay) 👋
-I have recently finished my Ph.D. in ME from Virginia Tech (March 2022). My research focused on systematically developing distributed control algorithms for legged robots. 
+I have recently finished my Ph.D. in ME from Virginia Tech (March 2022). My research focused on the development of distributed control algorithms with applications in legged robots. More particularly, I developed control algorithms that view a single agent as a combination of multiple subsystems. The corresponding simulation and animations can be viewed here [my channel](https://www.youtube.com/channel/UComeXSa3wP-8zMeutYwN7yA) and here [lab channel](https://www.youtube.com/channel/UCGZxNfxTxun4Z7hNjkHCUeg). 
 
 I am best reached via [LinkedIn](https://www.linkedin.com/in/vkamidi/) and I love to meet new people from various professional domains! So, please feel free to reach me if you have any interesting topics to be discussed or projects to collaborate on.
 <!--
